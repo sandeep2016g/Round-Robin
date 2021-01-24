@@ -28,7 +28,7 @@
         <rest_variables/>
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
-    //Current assignment Group
+    //Current Assignment Group
 	var assignment_group = current.assignment_group;
 	var user_names = [];
 	var user_sys_id = [];
