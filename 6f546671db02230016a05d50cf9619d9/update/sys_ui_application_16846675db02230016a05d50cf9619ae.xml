@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Rules</name>
+        <order/>
+        <roles>x_20346_round_robi.rules_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-29 03:09:57</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>16846675db02230016a05d50cf9619ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rules</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Round Robin" source="x_20346_round_robi">6f546671db02230016a05d50cf9619d9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Round Robin">6f546671db02230016a05d50cf9619d9</sys_scope>
+        <sys_update_name>sys_ui_application_16846675db02230016a05d50cf9619ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-29 03:09:57</sys_updated_on>
+    </sys_ui_application>
+</record_update>
