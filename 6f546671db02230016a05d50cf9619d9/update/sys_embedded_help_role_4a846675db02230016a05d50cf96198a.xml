@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_20346_round_robi.rules_user" name="x_20346_round_robi.rules_user">ce846675db02230016a05d50cf961987</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-29 03:09:57</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4a846675db02230016a05d50cf96198a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ce846675db02230016a05d50cf961987</sys_name>
+        <sys_package display_value="Round Robin" source="x_20346_round_robi">6f546671db02230016a05d50cf9619d9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Round Robin">6f546671db02230016a05d50cf9619d9</sys_scope>
+        <sys_update_name>sys_embedded_help_role_4a846675db02230016a05d50cf96198a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-29 03:09:57</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

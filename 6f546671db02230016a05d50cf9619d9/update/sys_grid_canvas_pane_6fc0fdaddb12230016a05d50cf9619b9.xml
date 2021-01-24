@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA Stock Quotes">abc0fdaddb12230016a05d50cf9619a6</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2015-02-11 01:23:43 AM">09cb1463eb023100871aac6aa206fe4d</portal_widget>
+        <posx>6</posx>
+        <posy>40</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-10 15:01:10</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6fc0fdaddb12230016a05d50cf9619b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>abc0fdaddb12230016a05d50cf9619a6</sys_name>
+        <sys_package display_value="Round Robin" source="x_20346_round_robi">6f546671db02230016a05d50cf9619d9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Round Robin">6f546671db02230016a05d50cf9619d9</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_6fc0fdaddb12230016a05d50cf9619b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-10 15:01:10</sys_updated_on>
+        <width>6</width>
+    </sys_grid_canvas_pane>
+</record_update>
