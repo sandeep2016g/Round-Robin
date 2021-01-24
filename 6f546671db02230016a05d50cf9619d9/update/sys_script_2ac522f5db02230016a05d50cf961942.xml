@@ -28,7 +28,7 @@
         <rest_variables/>
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
-
+    //Current assignment Group
 	var assignment_group = current.assignment_group;
 	var user_names = [];
 	var user_sys_id = [];
@@ -69,7 +69,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2ac522f5db02230016a05d50cf961942</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Round Robin Assignment</sys_name>
         <sys_overrides/>
         <sys_package display_value="Round Robin" source="x_20346_round_robi">6f546671db02230016a05d50cf9619d9</sys_package>
@@ -78,7 +78,7 @@
         <sys_scope display_value="Round Robin">6f546671db02230016a05d50cf9619d9</sys_scope>
         <sys_update_name>sys_script_2ac522f5db02230016a05d50cf961942</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-11-29 03:55:11</sys_updated_on>
+        <sys_updated_on>2021-01-24 23:54:35</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
